@@ -2,15 +2,16 @@
 
 This Project written using AngularJS and the AWS JS SDK to demonstrate uploading files to AWS S3.
 
-## Build & development
+## Build & development Command:
 
- Run the Following Command
- npm install
- bower install
- grunt serve
- grunt build
+~~~
+ * npm install
+ * bower install
+ * grunt serve
+ * grunt build
+~~~
 
-### Components used
+### Components used:
 
 ~~~
 
@@ -20,7 +21,7 @@ This Project written using AngularJS and the AWS JS SDK to demonstrate uploading
 
 ~~~
 
-### AWS Credentials used
+### AWS Credentials used:
 
 ```javascript
     var credentails =
