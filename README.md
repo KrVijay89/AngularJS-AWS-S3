@@ -1,12 +1,19 @@
-# vijay-git
+# AWS S3 File Upload
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+This Project written using AngularJS and the AWS JS SDK to demonstrate uploading files to AWS S3.
 
 ## Build & development
 
-Run `grunt` for building and `grunt serve` for preview.
+ Run the Following Command
+ npm install
+ bower install
+ grunt serve
+ grunt build
 
-## Testing
+# Components used
 
-Running `grunt test` will run the unit tests with karma.
+  AngularJS
+  AWS S3 JavaScript SDK
+  Toaster
+
+
