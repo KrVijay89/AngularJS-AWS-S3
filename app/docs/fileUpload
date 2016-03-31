@@ -1,0 +1,39 @@
+
+
+STEP 01
+
+  -- Install the "aws-sdk-js" Component in Bower Json file to make the AWS connection and file upload operation.
+
+  -- Install the "toastr" Component i Bower to show to "Error or Success" Toast Message
+
+
+STEP 02
+
+  -- Make One More Module Called "Directive" for File Upload. And Inside this create a new directive called file
+     and add this new module to Parent Module.
+
+
+  -- Make One Parent Controller Which you can everywhere where you want to implement the file upload in your project (Controller named as fileUploadCtrl)
+     this controller will accept one params which is "file" object.
+
+
+ STEP 03
+
+  -- Call the "fileUploadCtrl" from the child Controller from where you will trigger the file upload function
+
+
+
+
+
+  =====  Amazon Related Task  =====
+
+  STEP 01
+    -- Create an Account in Amazon (AWS S3 server).
+    -- Get the "access_key" - "xxxxxxxxxxxx".
+    -- Get the "secret_key" - "xxxxxxxxxxxxxxxxxxxx".
+    -- Create a New Bucket Folder in AWS "Some Random name"
+
+  STEP 02
+
+    -- Goes to the privacy for CORS. and Allow the AWS server to access it from your domain name.
+
